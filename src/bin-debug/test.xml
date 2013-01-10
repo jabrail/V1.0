@@ -1,0 +1,84 @@
+  <order> 
+        <item id='0'> 
+            <urlRequest>images/Stone/1.png</urlRequest> 
+            
+        </item> 
+        <item id='1'> 
+            <urlRequest>images/Stone/2.png</urlRequest> 
+            
+        </item> 
+        <item id='2'> 
+            <urlRequest>images/Stone/3.png</urlRequest> 
+            
+        </item> 
+        <item id='3'> 
+            <urlRequest>images/Stone/4.png</urlRequest> 
+            
+        </item> 
+        <item id='4'> 
+            <urlRequest>images/Stone/5.png</urlRequest> 
+            
+        </item> 
+        <item id='5'> 
+            <urlRequest>images/Stone/6.png</urlRequest> 
+            
+        </item> 
+        <item id='6'> 
+            <urlRequest>images/Stone/7.png</urlRequest> 
+            
+        </item> 
+        <item id='7'> 
+            <urlRequest>images/Stone/8.png</urlRequest> 
+            
+        </item> 
+        <item id='8'> 
+            <urlRequest>images/Stone/9.png</urlRequest> 
+            
+        </item> 
+        <item id='9'> 
+            <urlRequest>images/Stone/10.png</urlRequest> 
+            
+        </item> 
+        <item id='10'> 
+            <urlRequest>images/Stone/11.png</urlRequest> 
+            
+        </item> 
+        <item id='11'> 
+            <urlRequest>images/Stone/12.png</urlRequest> 
+            
+        </item> 
+        <item id='12'> 
+            <urlRequest>images/Stone/13.png</urlRequest> 
+            
+        </item>
+        <item id='13'> 
+            <urlRequest>images/Stone/14.png</urlRequest> 
+            
+        </item> 
+        <item id='14'> 
+            <urlRequest>images/Stone/15.png</urlRequest> 
+            
+        </item> 
+        <itemStart id='0'> 
+            <urlRequest>images/Stone/st/1.png</urlRequest> 
+            
+        </itemStart>
+         <itemStart id='1'> 
+        <urlRequest>images/Stone/st/2.png</urlRequest> 
+            
+        </itemStart> 
+         <itemFinish id='0'> 
+        <urlRequest>images/Stone/st/3.png</urlRequest> 
+            
+        </itemFinish> 
+         <itemFinish id='1'> 
+        <urlRequest>images/Stone/st/4.png</urlRequest> 
+            
+        </itemFinish>  
+             
+        <kolItem>
+        <kol>15</kol></kolItem>
+        <kolItemStart><kol>2</kol></kolItemStart>
+        <kolItemFinish><kol>2</kol></kolItemFinish>
+     
+    </order>
